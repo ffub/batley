@@ -1,0 +1,24 @@
+button.calnext, button.calprev {
+  background: url(arrowleft_light.gif) 50% 50% no-repeat;
+  border-width: 0; cursor: pointer; display: block; float: left;
+  font-size: 1em; height: 1.4em; margin: 0 1em; width: 1.3em; 
+}
+button.calnext {
+  background: url(arrowright_light.gif) 50% 50% no-repeat;
+  float: right;
+}
+button.calprev:hover {
+  background: url(arrowleft.gif) 50% 50% no-repeat;
+}
+button.calnext:hover {
+  background: url(arrowright.gif) 50% 50% no-repeat;
+}
+button.calprev:active {
+  background: url(arrowleft_light.gif) 50% 50% no-repeat;
+}
+button.calnext:active {
+  background: url(arrowright_light.gif) 50% 50% no-repeat;
+}
+@media print {
+  button.calnext, button.calprev { display: none; }
+}

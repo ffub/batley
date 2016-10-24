@@ -1,0 +1,5 @@
+/* 2 Col Chart Side Con BE */
+*{ margin: 0; padding: 0;}
+div#container{ float: left;}
+div#sidebar{ width: 180px;}
+div#extraw{ clear: both; width: 100%;}

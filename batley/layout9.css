@@ -1,0 +1,7 @@
+/* 1 Col LC Con Side-Xtra */
+/* Source: http://blog.html.it/layoutgala/ (#28) */
+*{ margin: 0; padding: 0;}
+#sidebarw{ float: right; width: 25%;}
+#sidebar{ padding-top: 1px;}
+#extraw{ float: right; width: 74.9%;}
+#footerw{ clear: right; width: 100%;}

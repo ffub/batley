@@ -1,0 +1,5 @@
+div#container{display:inline-block;}
+a.ext{background-image:none !important;padding-right:0;}
+sup{font-size:80%;vertical-align:bottom;position:relative;bottom:1.5ex;}
+.pupbutton{display:inline-block;}
+ul.menutop li,ul.menubottom li{white-space:normal;}
